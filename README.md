@@ -7,11 +7,11 @@ Project Description:
 The Number Guessing Game is a simple yet engaging Java application that challenges players to guess a randomly generated number within a specified range. This project aims to provide a hands-on learning experience for interns at Codsoft, helping them improve their Java programming skills while creating an interactive and entertaining game.
 
 Technical Details:
-The project will be developed using Java programming language.
-Object-oriented principles will be followed to organize the code into classes and methods.
-Input and output will be managed using standard I/O libraries.
-The random number generation will be accomplished using Java's built-in Random class.
-Exception handling will be implemented to ensure the program gracefully handles incorrect inputs and unexpected errors.
+1. The project will be developed using Java programming language.
+2. Object-oriented principles will be followed to organize the code into classes and methods.
+3. Input and output will be managed using standard I/O libraries.
+4. The random number generation will be accomplished using Java's built-in Random class.
+5. Exception handling will be implemented to ensure the program gracefully handles incorrect inputs and unexpected errors.
 
 Features:
 1. User Interaction: The game will prompt the player to enter their guess for the secret number.
@@ -29,12 +29,12 @@ Project Description:
 The Word Counter Application is a Java project designed to help Codsoft interns enhance their programming skills by creating a useful utility. The project focuses on developing an application that takes a text input and provides users with valuable insights, such as word and character count. This project will provide a hands-on experience in Java programming and input/output handling.
 
 Technical Details:
-The project will be developed using Java programming language.
-Input and output will be managed using standard I/O libraries.
-String manipulation and parsing techniques will be employed to analyze the input text.
-Object-oriented programming principles will be followed to structure the code into classes and methods.
-Exception handling will be implemented to ensure the program gracefully handles errors or unexpected inputs.
-A data structure (e.g., arrays, lists and Strings) will be used to store the input sentence in String Array.
+1. The project will be developed using Java programming language.
+2. Input and output will be managed using standard I/O libraries.
+3. String manipulation and parsing techniques will be employed to analyze the input text.
+4. Object-oriented programming principles will be followed to structure the code into classes and methods.
+5. Exception handling will be implemented to ensure the program gracefully handles errors or unexpected inputs.
+6. A data structure (e.g., arrays, lists and Strings) will be used to store the input sentence in String Array.
 
 Features:
 1. User Input Options: The application will provide users with two options: entering text directly or providing a path to an external text file.
@@ -51,15 +51,15 @@ Project Description:
 The ATM Interface Simulation project is a Java-based application designed to give Codsoft interns hands-on experience in creating a simplified ATM interface. This project will involve designing an interactive interface that mimics the user experience of an ATM machine, providing users with options to perform basic banking operations. Through this project, interns will enhance their Java programming skills, learn about user interfaces, and develop a deeper understanding of object-oriented programming.
 
 Technical Details:
-The project will be developed using Java programming language.
-Object-oriented programming principles will be applied to design classes for users, accounts, transactions, etc.
-User input and interaction will be managed using standard I/O libraries.
-Data validation and error handling will be implemented to ensure smooth user interactions.
+1. The project will be developed using Java programming language.
+2. Object-oriented programming principles will be applied to design classes for users, accounts, transactions, etc.
+3. User input and interaction will be managed using standard I/O libraries.
+4. Data validation and error handling will be implemented to ensure smooth user interactions.
 
 Features:
-User Authentication: Users will be prompted to enter a PIN to access their account.
-Account Balance Inquiry: Once authenticated, users can choose to check their account balance.
-Cash Withdrawal: Users will be able to withdraw a specified amount of cash from their account, provided they have sufficient funds.
-Deposit Funds: Users can deposit a specified amount of funds into their account.
-User-Friendly Interface: The interface will be designed to guide users through the available options and display relevant information.
+1. User Authentication: Users will be prompted to enter a PIN to access their account.
+2. Account Balance Inquiry: Once authenticated, users can choose to check their account balance.
+3. Cash Withdrawal: Users will be able to withdraw a specified amount of cash from their account, provided they have sufficient funds.
+4. Deposit Funds: Users can deposit a specified amount of funds into their account.
+5. User-Friendly Interface: The interface will be designed to guide users through the available options and display relevant information.
 
